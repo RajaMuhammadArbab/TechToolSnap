@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://techtoolsnap.rajaarbabthakur1.workers.dev/sitemap.xml
